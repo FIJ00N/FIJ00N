@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FIJ00N
 - 👀 I’m interested in lerning programing
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python meby in fututre lerning c++
 - 📫 How to reach me discord fio#5436
 
 <!---
