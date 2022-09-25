@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @FIJ00N
-- 👀 I’m interested in lerning programing
-- 🌱 I’m currently learning python meby in fututre lerning c++
-- 📫 How to reach me discord fio#5436
+hi im fio 
+im new to programing 
+im lerning Pyton, html and css 
+im from Poland 
+im speak in Polish English and a litle bit of Germany 
+fio#5436 my discord 
+
 
 <!---
 FIJ00N/FIJ00N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
